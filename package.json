@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "description": "Git log | pager",
   "main": "dist/index.js",
-  "bin": "dist/index.js",
+  "bin": {
+    "gl": "dist/index.js",
+    "git-log": "dist/index.js"
+  },
   "scripts": {
     "build": "babel --presets=es2015 src -d dist",
     "prepublish": "npm run build"
