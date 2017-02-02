@@ -4,7 +4,6 @@
   "description": "Git log | pager",
   "main": "dist/index.js",
   "bin": {
-    "gl": "dist/index.js",
     "git-log": "dist/index.js"
   },
   "scripts": {
