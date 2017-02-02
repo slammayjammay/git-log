@@ -18,7 +18,7 @@
     "less"
   ],
   "author": "Scott McKenzie",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "node-pager": "^0.3.0"
   },
