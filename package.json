@@ -18,6 +18,10 @@
     "less"
   ],
   "author": "Scott McKenzie",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slammayjammay/git-log"
+  },
   "license": "MIT",
   "dependencies": {
     "node-pager": "^0.3.0"
