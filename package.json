@@ -1,7 +1,7 @@
 {
   "name": "git-log",
   "version": "0.1.0",
-  "description": "Git log | pager",
+  "description": "Pipe git-log into a pager",
   "main": "dist/index.js",
   "bin": {
     "git-log": "dist/index.js"
