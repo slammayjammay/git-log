@@ -23,6 +23,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "minimist": "^1.2.0",
     "node-pager": "^0.3.0"
   },
   "devDependencies": {
